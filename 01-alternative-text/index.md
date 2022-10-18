@@ -2,4 +2,4 @@
 
 ![alternative text.](Letter-C.png)
 
-**alt text** this is where my text goes
+**alt text** A large red capital letter C, made of squeezed pomegranate seeds, 3 combined photos
