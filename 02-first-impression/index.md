@@ -15,3 +15,8 @@ In my work I focus on logo design and brand identities. In my opinion, it is the
 ## My work
 
 ### Identity for Praha IV
+
+![PVI_poster2.](PVI_poster2.jpg)
+![PVI_poster1.](PVI_poster1.png)
+![PVI_stationary.](PVI_stationary.jpg)
+![PVI_logo.](PVI_logo.png)
