@@ -17,4 +17,4 @@ This is my homepage
 ## Class work
 
 - [Alternative text](01-alternative-text/index.md)
-
+- [Takeways](takeways/index.md)
