@@ -2,7 +2,7 @@
 
 ## Praha IV
 
-![PVI_introduction](PVI_introduction.png)
+![PVI_introduction](images/PVI_introduction.png)
 
 
 ## About Praha 6
@@ -19,7 +19,7 @@
 
 We finally found the required symbol in a combination of sans serif typography for the name of the capital (Helvetica Now Display) and the Roman numeral VI (Baskerville Ten). The symbol represents historicity, international relations and a very decent standard of living in this part of the city.
 
-![PVI_logo](PVI_logo.png)
+![PVI_logo](images/PVI_logo.png)
 
 
 
@@ -27,6 +27,6 @@ We finally found the required symbol in a combination of sans serif typography f
 
 The communication potential is further developed thanks to the character of the numbers, which can also function as text and can therefore be substituted for the syllables -vi- in the text (Břevnovské vinobraní; Rozsvícení vánočního stromku; informační grafika Víte, že na Praze Vi)
 
-![PVI_poster1](PVI_poster1.png)
-![PVI_poster2](PVI_poster2.jpg)
-![PVI_stationary](PVI_stationary.jpg)
+![PVI_poster1](images/PVI_poster1.png)
+![PVI_poster2](images/PVI_poster2.jpg)
+![PVI_stationary](images/PVI_stationary.jpg)
