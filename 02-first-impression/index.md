@@ -1,6 +1,6 @@
 # First impression
 
-(fotka)
+[](ŠumOdjeb.jpg)
 
 ## About me
 
