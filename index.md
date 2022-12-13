@@ -6,7 +6,7 @@ This is my homepage
 ## About
 
 - Something about me
-- My CV
+- [My CV](04-experience/index.md)
 
 
 ## Case study
