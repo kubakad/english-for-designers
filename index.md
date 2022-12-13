@@ -16,5 +16,5 @@ This is my homepage
 
 ## Class work
 
-- Alternative text
+- [Alternative text](/01-alternative-text/)
 
