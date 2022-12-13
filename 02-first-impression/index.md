@@ -1,6 +1,6 @@
 # First impression
 
-[](ŠumOdjeb.jpg)
+![Photo_of_mine.](ŠumOdjeb.jpg)
 
 ## About me
 
