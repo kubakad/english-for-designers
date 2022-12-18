@@ -78,7 +78,7 @@ We managed to develop a unique branding for Prague VI, which shifts from current
 ## Class work
 
 - [Alternative text](01-alternative-text/index.md)
-- [First impression](02-first-impression/inex.md)
+- [First impression](02-first-impression/index.md)
 - [Content first](03-content-first)
 - [Experience](04-experience)
 - [Voice and tone](05-voice-tone)
