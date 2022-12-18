@@ -8,7 +8,7 @@ This is my homepage
 ## About
 
 - Something about me
-- [My CV]()
+- [My CV](CV)
 
 
 ## Case study
