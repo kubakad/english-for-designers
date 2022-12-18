@@ -17,6 +17,8 @@ This is my homepage
 
 Praha 6    Case Study
 
+![](ZZZ-photos/PVI_introduction.png)
+
 **Cooperation:** Petr Kulhánek
 
 **Project:** The District of Prague 6 announced an open competition for a new visual identity to unify and systematize visual communication, including selected companies
@@ -36,13 +38,39 @@ Praha 6    Case Study
 ### Key words
 ![](ZZZ-photos/PVI_key_words.png)
 
+
 ### How we worked
 Research -> brainstorm -> sketches -> refinement -> application
 
+### Sketches
+The biggest challenge was to create such a symbol that would combine individuality, pride, and tradition. We decided to work only with the name "Prague 6", exploring several ways of how the symbol would look like
+
+![](ZZZ-photos/PVI_V1.png) ![](ZZZ-photos/PVI_V2.png)
+
+Thanks to sketching, we realized that we needed to add a new dimension to the design and focus more on the unmistakability of the symbol itself.
 
 
+### Refinement
+We finally found the required symbol in a combination of sans serif typography for the name of the capital (Helvetica Now Display) and the Roman numeral VI (Baskerville Ten). The symbol represents historicity, international relations and a very decent standard of living in this part of the city.
 
 
+![](ZZZ-photos/PVI_logo) 
+
+The logotype thus combines both the rich history of Prague 6 dating back to the 6th century and the modernity of the world metropolis. The number VI also refers to the already mentioned diplomacy and law, in whose writings and norms these ancient numbers are found.
+
+![](ZZZ-photos/PVI_C2.png) ![](ZZZ-photos/PVI_C.png)
+
+
+### Application
+The communication potential is further developed thanks to the character of the numbers, which can also function as text and can therefore be substituted for the syllables -vi- in the text (Břevnovské vinobraní; Rozsvícení vánočního stromku; informační grafika Víte, že na Praze Vi)
+
+
+![](ZZZ-photos/PVI_poster2.jpg) ![](ZZZ-photos/PVI_T-shirt)
+![](ZZZ-photos/PVI_stationary.jpg) ![](ZZZ-photos/PVI_poster1.png)
+
+
+### The result of the project
+We managed to develop a unique branding for Prague VI, which shifts from current trends in visual identity design, but at the same time looks timeless and would last this proud part of the city for many years.
 
 
 `hello`
