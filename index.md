@@ -19,7 +19,7 @@ In my work I focus on logo design and brand identities. In my opinion, it is the
 
 ---
 
-- [My CV](CV)
+- [My CV](CV/index.md)
 
 
 ## Case study
