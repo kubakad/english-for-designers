@@ -1,1 +1,1 @@
-![](ZZZ-photos/CV.png)
+![](CV.png)
