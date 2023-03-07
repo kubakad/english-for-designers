@@ -6,10 +6,11 @@ by Jakub Kaderka
 
 At first I started with some brainstorming.
 
-![Photo of brainstorming session with lots of ideas.](06-storytelling/photos/Brainstorm.png)
+![Photo of brainstorming session with lots of ideas.](ZZZ-photos/Brainstorm.png)
 
 
 
 ### Slides
 
-![Photo of few slides I wanted to show.](06-storytelling/photos/Slides.png)
+Next I wanted to outline some slides and think how they can look.
+![Photo of few slides I wanted to show.](ZZZ-photos/Slides.png)
