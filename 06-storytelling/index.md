@@ -13,7 +13,7 @@ At first I started with some brainstorming.
 
 Than I wanted to think about I can write about and choose some heading.
 
-<mark> Infographic can save your life </mark>
+**Infographic can save your life**
 
 This heading can grab attention and at the same time show the importance of good infographic.
 
