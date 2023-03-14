@@ -21,6 +21,8 @@ This heading can grab attention and at the same time show the importance of good
 
 - Why I love Infographic
 
+Covid -> today
+
 Looks easy, but making it is really hard
 
 - What is infographic
