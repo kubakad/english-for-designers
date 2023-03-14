@@ -20,11 +20,22 @@ This heading can grab attention and at the same time show the importance of good
 ### content
 
 - Why I love Infographic
+Looks easy, but making it is really hard
+
 - What is infographic
+Examples, real world cases
+
 - History
+When it all started, big boom during WW
+
 - importance of infographic
+Why it is important, examples when infographic can save lives
+
 - Common mistakes
+Mistakes I found in mainstream press
+
 - End
+conclusion and some tips 
 
 
 ## Slides
