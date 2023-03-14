@@ -46,6 +46,10 @@ Mistakes I found in mainstream press
 conclusion and some tips 
 
 
+---
+
+
+
 ## Slides
 
 Next I wanted to outline some slides and think how they can look.
