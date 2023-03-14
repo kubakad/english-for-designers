@@ -30,4 +30,5 @@ This heading can grab attention and at the same time show the importance of good
 ## Slides
 
 Next I wanted to outline some slides and think how they can look.
+
 ![Photo of few slides I wanted to show.](images/Slides.png)
