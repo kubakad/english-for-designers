@@ -94,3 +94,6 @@ We managed to develop a unique branding for Prague VI, which shifts from current
 - [Experience](04-experience)
 - [Voice and tone](05-voice-tone)
 - [Takeways](takeways/index.md)
+- [Storytelling](06-storytelling/index.md)
+- [Thesis abstract](07-thesis-abstract/index.md)
+- [Thesis presentation](08-thesis-presentation/index.md)
