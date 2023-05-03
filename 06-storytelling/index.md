@@ -1,6 +1,6 @@
 # Infographic can save your life
 
-My [process](06-storytelling/progress.md)
+My [process](english-for-designers/06-storytelling/progress.md)
 
 
 ## 1.3.2020
