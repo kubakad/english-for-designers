@@ -1,6 +1,6 @@
 # Infographic can save your life
 
-My [process]((https://kubakad.github.io/english-for-designers/06-storytelling/progress.md)
+My [process](https://kubakad.github.io/english-for-designers/06-storytelling/progress.md)
 
 
 ## 1.3.2020
