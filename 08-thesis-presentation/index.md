@@ -2,7 +2,8 @@
 
 Full [video](https://youtu.be/W8vp__yx2hM)
 
-Short sumup
+
+## GitHub version
 
 Initially, the work was to be purely about a graphic manual for one particular company that had changed its business area and therefore needed a new identity. The manual was originally to contain only logos, prohibited and permitted variants, colors and fonts and other typical content of a graphic manual. The company I was originally to create the manual for was called J.P.O.S.K invest and was in the investment and advisory services business. However, it has recently started buying up companies of various kinds from its accumulated capital and has thus become a holding company, itself then being the parent company. After a while, there was a major problem, each firm had a different quality of performance. Just as the quality of logos differed, so did the approach to communication. Most only had a website, which was the only place of self-presentation.
 
