@@ -6,7 +6,7 @@ by Jakub Kaderka
 
 At first I started with some brainstorming.
 
-![Photo of brainstorming session with lots of ideas.](english-for-designers/06-storytelling/images/Brainstorm.png)
+![Photo of brainstorming session with lots of ideas.](images/Brainstorm.png)
 
 
 ## About, heading
