@@ -1,6 +1,6 @@
 # Infographic can save your life
 
-My [process](06-storytelling/Progress/index.md)
+My [process](Progress/index.md)
 
 
 ## 1.3.2020
