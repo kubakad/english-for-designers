@@ -88,6 +88,7 @@ We managed to develop a unique branding for Prague VI, which shifts from current
 
 ## Class work
 
+- [Year end review](00-year-end-review/index.md)
 - [Alternative text](01-alternative-text/index.md)
 - [First impression](02-first-impression/index.md)
 - [Content first](03-content-first)
