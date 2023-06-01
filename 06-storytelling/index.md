@@ -1,6 +1,7 @@
 # Infographics can save your life
 
 My [process](Progress/index.md)
+Full in-class [presentation](https://www.figma.com/proto/Q9fc34KhoK0T5IQ8RfeZQQ/AJ?page-id=0%3A1&type=design&node-id=1-2&viewport=574%2C460%2C0.05&scaling=contain&starting-point-node-id=1%3A2)
 
 
 ## 1.3.2020
