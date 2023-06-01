@@ -1,4 +1,4 @@
-# Infographic can save your life
+# Infographics can save your life
 
 My [process](Progress/index.md)
 
